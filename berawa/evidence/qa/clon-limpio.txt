@@ -1,0 +1,14 @@
+HEAD b89656ff1a28a3283f79c26edfb98f6cf63d0226
+OK    check_kb (citas + regla de precios P1-P6) sobre berawa/knowledge.json
+FALLO tests_hotel_vetusta_oviedo: 4 idiomas + chatbot contra la base (HTTP)
+   FALLOS ['en: chat "Where can I park?" esperado K05 -> It is at C. Covadonga, 2, 33002 Oviedo (Asturias), in the centre, just 2 minutes']
+OK    a11y_test: axe-core + teclado (HTTP)
+OK    contrast_manual: contraste de nodos «incompletos» de axe
+OK    keys_test: claves del chat sin ambiguedad
+OK    sec_scan: revision estatica + CSP efectiva
+FALLO tests_hotel_vetusta_oviedo por file://
+   FALLOS ['en: chat "Where can I park?" esperado K05 -> It is at C. Covadonga, 2, 33002 Oviedo (Asturias), in the centre, just 2 minutes']
+OK    a11y_test por file://
+
+6/8 comprobaciones OK · resultados en /tmp/clon-hotel-vetusta-oviedo/out
+run_checks exit 1
