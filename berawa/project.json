@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hotel-vetusta-oviedo",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T06:46:00+01:00",
+ "updated_at": "2026-10-30T07:05:00+01:00",
+ "business": {
+  "name": "Hotel Vetusta",
+  "legal_name": "Alojamiento Hotelero Vetusta",
+  "registry_ids": [
+   "CIF B74308990"
+  ],
+  "url": "https://www.hotelvetusta.com/",
+  "domain": "hotelvetusta.com",
+  "municipality": "Oviedo",
+  "province": "Asturias",
+  "address": "C. Covadonga, 2 · 33002 Oviedo (Asturias)",
+  "phones": [
+   "+34 985 22 22 29"
+  ],
+  "emails": [
+   "info@hotelvetusta.com"
+  ],
+  "sector": "hotel urbano de 3 estrellas en el centro de Oviedo"
+ },
+ "rating": {
+  "value": 4.1,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Hotel+Vetusta/@43.3640247,-5.8471744,17z/data=!4m9!3m8!1s0xd368cfab7624ea5:0xf26c936619f7c09!5m2!4m1!1i2!8m2!3d43.3640247!4d-5.8471744!16s%2Fg%2F1tgz1wmk",
+  "date": "2026-10-29T12:23:47+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://www.hotelvetusta.com/reservar.html",
+  "note": "motor de reservas propio de su web (reservar.html, Keytel), HTTP 200 comprobado el 30/10/2026."
+ },
+ "audit_original": {
+  "url": "https://www.hotelvetusta.com/",
+  "date": "2026-10-30T06:43:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": null,
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
