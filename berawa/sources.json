@@ -1,0 +1,74 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelvetusta.com/",
+ "read_at": "2026-10-30T06:47:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelvetusta.com/",
+   "sha256": "025b9972a0728929629171dc0453b68af8d3e993ab3b365148a6c909f5912197",
+   "chars": 7470
+  },
+  {
+   "url": "https://www.hotelvetusta.com/Nuestros-servicios.html",
+   "sha256": "1fabd5b5f554dbec4c01fd8e8d207c2416008ae2d10126dde7eb6af24d79fe9e",
+   "chars": 6595
+  },
+  {
+   "url": "https://www.hotelvetusta.com/aparcamiento.html",
+   "sha256": "eac985be65500acc441e4aadb734e57f238c545b69ed566c28823e1bfd265c68",
+   "chars": 6195
+  },
+  {
+   "url": "https://www.hotelvetusta.com/aviso-legal.html",
+   "sha256": "9833c5942d402917b15c52a6ada3b6c75fde8424759eb62a695156f6e371017b",
+   "chars": 6284
+  },
+  {
+   "url": "https://www.hotelvetusta.com/cafeteria.html",
+   "sha256": "febe9a1842399c4306dae64878077e20bcab7afc548a30b1b2b4956c1c0e3254",
+   "chars": 6158
+  },
+  {
+   "url": "https://www.hotelvetusta.com/habitacion-doble-o-twin-cama-extra.html",
+   "sha256": "c89342566825ecf7a6c9548d31f8ec14ef13036e0b74ac6eb5c227a594d35933",
+   "chars": 5590
+  },
+  {
+   "url": "https://www.hotelvetusta.com/habitacion-economica.html",
+   "sha256": "21a9f54269000d388bd628580cb1b7da04c9558c9bad6b1b90506c3f6716d7d5",
+   "chars": 5497
+  },
+  {
+   "url": "https://www.hotelvetusta.com/habitacion-matrimonial.html",
+   "sha256": "ba180a868209ad04436a58f9a6769ba9cf3ead82e272e356d0dec27829a75f26",
+   "chars": 5536
+  },
+  {
+   "url": "https://www.hotelvetusta.com/habitaciones.html",
+   "sha256": "0419705591eb1188a7c218184a7e8f7aadddd9a084887ec51fd5214087a05b17",
+   "chars": 7644
+  },
+  {
+   "url": "https://www.hotelvetusta.com/reservar.html",
+   "sha256": "86d194beb6f12958666f100301b36c120521e7bba0cad03b2e478746c839fc38",
+   "chars": 5158
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelvetusta.com",
+  "https://www.hotelvetusta.com/10-descuento-en-tu-reserva-anticipada.html",
+  "https://www.hotelvetusta.com/6-de-descuento-en-un-minimo-3-noches.html",
+  "https://www.hotelvetusta.com/EN/home.html",
+  "https://www.hotelvetusta.com/celebra-tu-evento-con-nosotros.html",
+  "https://www.hotelvetusta.com/contacto.html",
+  "https://www.hotelvetusta.com/cookies.html",
+  "https://www.hotelvetusta.com/descuento-del-7-en-minimo-4-noches.html",
+  "https://www.hotelvetusta.com/eventos.html",
+  "https://www.hotelvetusta.com/galeria.html",
+  "https://www.hotelvetusta.com/habitacion-individual.html",
+  "https://www.hotelvetusta.com/hotel-vetusta.html",
+  "https://www.hotelvetusta.com/mejor-precio-disponible.html",
+  "https://www.hotelvetusta.com/promociones.html"
+ ]
+}
