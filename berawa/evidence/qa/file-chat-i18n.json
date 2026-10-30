@@ -1,0 +1,346 @@
+{
+ "url": "file:///tmp/clon-hotel-vetusta-oviedo/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 4 tipos: habitación individual, habitación económica, habitación matrimonial (con balcón) y habitación doble o twin + cama extra (hasta "
+    },
+    {
+     "q": "¿Tenéis habitación para tres personas?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: la habitación doble o twin + cama extra tiene capacidad máxima para tres personas y está pensada para familias o amigos."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "El hotel dispone de conexión Wi-Fi gratuita en todas sus instalaciones. Otros servicios: aire acondicionado, bar-cafetería, servicio de habi"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El check-in es de 15:00 a 23:00 y el check-out de 07:00 a 12:00. Recepción: de 7:00 a 22:30 de lunes a viernes y de 8:00 a 22:30 sábados y d"
+    },
+    {
+     "q": "¿Dónde aparco?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El hotel tiene acuerdo con el Parking Longoria (Plaza Longoria Carbajal s/n), abierto 24 h a 100 metros. Según su web (leída el 30/10/2026),"
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "No se permiten animales de compañía en el hotel (lo indica su web)."
+    },
+    {
+     "q": "¿Hay cafetería?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí. La cafetería sirve desayunos, comidas y cenas, tiene terraza exterior y preparan a diario bizcochos, tartas y bollería artesanal. Si est"
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en C. Covadonga, 2, 33002 Oviedo (Asturias), en el centro, a tan solo 2 minutos del casco antiguo y la zona comercial."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar al +34 985 22 22 29 o escribir a info@hotelvetusta.com. Este asis"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar al +34 985 22 22 29 o escribir a info@hotelvetusta.com. Este asis"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 985 22 22 29 · info@hotelvetusta.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 985 22 22 29 · info@hotelvetusta.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿A qué hora es el check-in?",
+    "¿Dónde aparco?",
+    "¿Admitís mascotas?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 4 types: single room, economy room, double room (with balcony) and double or twin room + extra bed (up to 3 people). All with Wi-F"
+    },
+    {
+     "q": "Do you have a room for three people?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: the double or twin room + extra bed holds up to three people and is designed for families or friends."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "The hotel has free Wi-Fi throughout. Other services: air conditioning, bar-cafeteria, room service, partner car park and tourist information"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in is from 15:00 to 23:00 and check-out from 07:00 to 12:00. Reception: 7:00 to 22:30 Monday to Friday and 8:00 to 22:30 at weekends. "
+    },
+    {
+     "q": "Is there a car park?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "The hotel has an agreement with Parking Longoria (Plaza Longoria Carbajal s/n), open 24 h, 100 metres away. According to their website (read"
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Pets are not allowed in the hotel (stated on their website)."
+    },
+    {
+     "q": "Is there a cafeteria?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes. The cafeteria serves breakfast, lunch and dinner, has an outdoor terrace and bakes cakes, tarts and pastries every day. Hotel guests ca"
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at C. Covadonga, 2, 33002 Oviedo (Asturias), in the centre, just 2 minutes from the old town and the shopping area."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their website's booking engine (Book button), call +34 985 22 22 29 or write to info@hotelvetusta.com. This assistant does n"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their website's booking engine (Book button), call +34 985 22 22 29 or write to info@hotelvetusta.com. This assistant does n"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 985 22 22 29 · info@hotelvetusta.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 985 22 22 29 · info@hotelvetusta.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "What time is check-in?",
+    "Is there a car park?",
+    "Are pets allowed?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 4 types : chambre individuelle, chambre économique, chambre double (avec balcon) et double ou twin + lit supplémentaire (jusqu'à 3 pe"
+    },
+    {
+     "q": "Avez-vous une chambre pour trois personnes ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : la chambre double ou twin + lit supplémentaire accueille jusqu'à trois personnes, idéale pour les familles ou les amis."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "L'hôtel dispose du Wi-Fi gratuit dans toutes ses installations. Autres services : climatisation, bar-cafétéria, service en chambre, parking "
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Le check-in a lieu de 15h00 à 23h00 et le check-out de 07h00 à 12h00. Réception : de 7h00 à 22h30 du lundi au vendredi et de 8h00 à 22h30 le"
+    },
+    {
+     "q": "Où me garer ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'hôtel a un accord avec le Parking Longoria (Plaza Longoria Carbajal s/n), ouvert 24 h, à 100 mètres. Selon leur site (consulté le 30/10/20"
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Les animaux de compagnie ne sont pas admis à l'hôtel (indiqué sur leur site)."
+    },
+    {
+     "q": "Y a-t-il une cafétéria ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui. La cafétéria sert petits-déjeuners, déjeuners et dîners, dispose d'une terrasse extérieure et prépare chaque jour gâteaux, tartes et vi"
+    },
+    {
+     "q": "Où se trouve l'hôtel ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "L'hôtel se trouve C. Covadonga, 2, 33002 Oviedo (Asturies), au centre, à seulement 2 minutes de la vieille ville et du quartier commerçant."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler le +34 985 22 22 29 ou écrire à info@hotelvetusta."
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler le +34 985 22 22 29 ou écrire à info@hotelvetusta."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 985 22 22 29 · info@hotelvetusta.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 985 22 22 29 · info@hotelvetusta.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "À quelle heure est le check-in ?",
+    "Où me garer ?",
+    "Les animaux sont-ils admis ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 4 Zimmertypen: Einzelzimmer, Economy-Zimmer, Doppelzimmer (mit Balkon) sowie Doppel- oder Zweibettzimmer + Zustellbett (bis zu 3 Per"
+    },
+    {
+     "q": "Haben Sie ein Zimmer für drei Personen?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja: Das Doppel- oder Zweibettzimmer mit Zustellbett bietet Platz für bis zu drei Personen und eignet sich für Familien oder Freunde."
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Das Hotel bietet kostenloses WLAN im ganzen Haus. Weitere Leistungen: Klimaanlage, Bar-Cafeteria, Zimmerservice, Partnerparkhaus und tourist"
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in ist von 15:00 bis 23:00 Uhr, Check-out von 07:00 bis 12:00 Uhr. Rezeption: montags bis freitags 7:00 bis 22:30 Uhr, am Wochenende 8"
+    },
+    {
+     "q": "Wo kann ich parken?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Das Hotel hat eine Vereinbarung mit dem Parking Longoria (Plaza Longoria Carbajal s/n), 24 Stunden geöffnet, 100 Meter entfernt. Laut Websit"
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Haustiere sind im Hotel nicht erlaubt (laut Website)."
+    },
+    {
+     "q": "Gibt es eine Cafeteria?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Ja. Die Cafeteria serviert Frühstück, Mittag- und Abendessen, hat eine Außenterrasse und backt täglich Kuchen, Torten und Gebäck. Hotelgäste"
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Das Hotel liegt in der C. Covadonga, 2, 33002 Oviedo (Asturien), im Zentrum, nur 2 Minuten von der Altstadt und dem Einkaufsviertel entfernt"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 985 22 22 29 anrufen oder an info@hotelvetusta.com "
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 985 22 22 29 anrufen oder an info@hotelvetusta.com "
+    },
+    {
+     "q": "Was kostet eine Übernachtung?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 985 22 22 29 · info@hotelvetusta.com."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 985 22 22 29 · info@hotelvetusta.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Wann ist der Check-in?",
+    "Wo kann ich parken?",
+    "Sind Haustiere erlaubt?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

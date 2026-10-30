@@ -1,0 +1,568 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-vetusta-oviedo",
+ "source_site": "https://www.hotelvetusta.com/",
+ "source_read_at": "2026-10-30T06:47:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "habitaciones",
+     "dormitorio",
+     "tipos de",
+     "individual",
+     "matrimonial",
+     "economica"
+    ],
+    "en": [
+     "room",
+     "rooms",
+     "bedroom",
+     "single",
+     "economy"
+    ],
+    "fr": [
+     "chambre",
+     "chambres",
+     "individuelle",
+     "economique"
+    ],
+    "de": [
+     "zimmer",
+     "einzelzimmer",
+     "doppelzimmer",
+     "economy"
+    ]
+   },
+   "a": {
+    "es": "Hay 4 tipos: habitación individual, habitación económica, habitación matrimonial (con balcón) y habitación doble o twin + cama extra (hasta 3 personas). Todas con Wi-Fi, aire acondicionado, TV LCD y amenities.",
+    "en": "There are 4 types: single room, economy room, double room (with balcony) and double or twin room + extra bed (up to 3 people). All with Wi-Fi, air conditioning, LCD TV and toiletries.",
+    "fr": "Il y a 4 types : chambre individuelle, chambre économique, chambre double (avec balcon) et double ou twin + lit supplémentaire (jusqu'à 3 personnes). Toutes avec Wi-Fi, climatisation, TV LCD et produits d'accueil.",
+    "de": "Es gibt 4 Zimmertypen: Einzelzimmer, Economy-Zimmer, Doppelzimmer (mit Balkon) sowie Doppel- oder Zweibettzimmer + Zustellbett (bis zu 3 Personen). Alle mit WLAN, Klimaanlage, LCD-TV und Pflegeartikeln."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/habitaciones.html",
+     "quote": "Habitación individual Habitación económica Habitación matrimonial Habitación doble o twin + cama extra"
+    },
+    {
+     "url": "https://www.hotelvetusta.com/habitacion-matrimonial.html",
+     "quote": "Esta habitación tiene balcón."
+    },
+    {
+     "url": "https://www.hotelvetusta.com/habitacion-economica.html",
+     "quote": "Conexión Wi-fi a internet Aire acondicionado Amenities TV LCD"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "familias",
+   "keys": {
+    "es": [
+     "tres personas",
+     "3 personas",
+     "familia",
+     "amigos",
+     "cama extra",
+     "triple"
+    ],
+    "en": [
+     "three people",
+     "3 people",
+     "family",
+     "friends",
+     "extra bed",
+     "triple"
+    ],
+    "fr": [
+     "trois personnes",
+     "3 personnes",
+     "famille",
+     "amis",
+     "lit supplementaire",
+     "triple"
+    ],
+    "de": [
+     "drei personen",
+     "3 personen",
+     "familie",
+     "freunde",
+     "zustellbett",
+     "dreibett"
+    ]
+   },
+   "a": {
+    "es": "Sí: la habitación doble o twin + cama extra tiene capacidad máxima para tres personas y está pensada para familias o amigos.",
+    "en": "Yes: the double or twin room + extra bed holds up to three people and is designed for families or friends.",
+    "fr": "Oui : la chambre double ou twin + lit supplémentaire accueille jusqu'à trois personnes, idéale pour les familles ou les amis.",
+    "de": "Ja: Das Doppel- oder Zweibettzimmer mit Zustellbett bietet Platz für bis zu drei Personen und eignet sich für Familien oder Freunde."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/habitacion-doble-o-twin-cama-extra.html",
+     "quote": "Este dormitorio con capacidad máxima para tres personas, es el alojamiento perfecto para familias o amigos."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "wifi y servicios",
+   "keys": {
+    "es": [
+     "wifi",
+     "wi-fi",
+     "internet",
+     "aire acondicionado",
+     "servicios"
+    ],
+    "en": [
+     "wifi",
+     "wi-fi",
+     "internet",
+     "air conditioning",
+     "amenities",
+     "services"
+    ],
+    "fr": [
+     "wifi",
+     "wi-fi",
+     "internet",
+     "climatisation",
+     "services"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet",
+     "klimaanlage",
+     "ausstattung",
+     "service"
+    ]
+   },
+   "a": {
+    "es": "El hotel dispone de conexión Wi-Fi gratuita en todas sus instalaciones. Otros servicios: aire acondicionado, bar-cafetería, servicio de habitaciones, parking concertado e información turística.",
+    "en": "The hotel has free Wi-Fi throughout. Other services: air conditioning, bar-cafeteria, room service, partner car park and tourist information.",
+    "fr": "L'hôtel dispose du Wi-Fi gratuit dans toutes ses installations. Autres services : climatisation, bar-cafétéria, service en chambre, parking partenaire et informations touristiques.",
+    "de": "Das Hotel bietet kostenloses WLAN im ganzen Haus. Weitere Leistungen: Klimaanlage, Bar-Cafeteria, Zimmerservice, Partnerparkhaus und touristische Informationen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/Nuestros-servicios.html",
+     "quote": "El hotel dispone de conexión Wi-Fi gratuita en todas nuestras instalaciones."
+    },
+    {
+     "url": "https://www.hotelvetusta.com/Nuestros-servicios.html",
+     "quote": "Servicios Aire acondicionado Bar-Cafetería Conexión Wi-fi a internet Servicio de habitaciones Parking Información turística"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "check-in",
+     "check in",
+     "checkin",
+     "entrada",
+     "salida",
+     "check-out",
+     "checkout",
+     "recepcion",
+     "horario",
+     "a que hora",
+     "llegada"
+    ],
+    "en": [
+     "check-in",
+     "check in",
+     "checkin",
+     "check-out",
+     "checkout",
+     "reception",
+     "arrival",
+     "what time",
+     "opening hours"
+    ],
+    "fr": [
+     "check-in",
+     "check in",
+     "arrivee",
+     "depart",
+     "check-out",
+     "reception",
+     "horaire",
+     "quelle heure"
+    ],
+    "de": [
+     "check-in",
+     "check in",
+     "checkin",
+     "check-out",
+     "checkout",
+     "rezeption",
+     "ankunft",
+     "abreise",
+     "uhrzeit",
+     "wann ist"
+    ]
+   },
+   "a": {
+    "es": "El check-in es de 15:00 a 23:00 y el check-out de 07:00 a 12:00. Recepción: de 7:00 a 22:30 de lunes a viernes y de 8:00 a 22:30 sábados y domingos. Si llegas más tarde, contacta directamente con el hotel: según su web (leída el 30/10/2026), el check-in más tarde tiene un suplemento de 25 €; confírmalo al reservar.",
+    "en": "Check-in is from 15:00 to 23:00 and check-out from 07:00 to 12:00. Reception: 7:00 to 22:30 Monday to Friday and 8:00 to 22:30 at weekends. If you arrive later, contact the hotel directly: according to their website (read on 30/10/2026), a later check-in carries a €25 supplement; please confirm it when you book.",
+    "fr": "Le check-in a lieu de 15h00 à 23h00 et le check-out de 07h00 à 12h00. Réception : de 7h00 à 22h30 du lundi au vendredi et de 8h00 à 22h30 le week-end. Si vous arrivez plus tard, contactez directement l'hôtel : selon leur site (consulté le 30/10/2026), un check-in plus tardif entraîne un supplément de 25 € ; confirmez-le lors de la réservation.",
+    "de": "Check-in ist von 15:00 bis 23:00 Uhr, Check-out von 07:00 bis 12:00 Uhr. Rezeption: montags bis freitags 7:00 bis 22:30 Uhr, am Wochenende 8:00 bis 22:30 Uhr. Bei späterer Ankunft kontaktieren Sie bitte direkt das Hotel: Laut Website (abgerufen am 30/10/2026) kostet ein späterer Check-in 25 € Zuschlag; bitte bei der Buchung bestätigen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/Nuestros-servicios.html",
+     "quote": "La hora del check-in es de 15:00 a 23:00 y la hora del check-out es de 07:00 a 12:00 horas."
+    },
+    {
+     "url": "https://www.hotelvetusta.com/Nuestros-servicios.html",
+     "quote": "El check-in más tarde de la hora indicada tiene un suplemento de 25€."
+    },
+    {
+     "url": "https://www.hotelvetusta.com/Nuestros-servicios.html",
+     "quote": "El horario de recepción es de 7 de la mañana a 22:30 horas de lunes a viernes y de 8 de la mañana a 22:30 horas sábados y domingos."
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K05",
+   "topic": "aparcamiento",
+   "keys": {
+    "es": [
+     "aparc",
+     "parking",
+     "coche",
+     "garaje",
+     "estacionar"
+    ],
+    "en": [
+     "park",
+     "parking",
+     "car park",
+     "garage",
+     " car "
+    ],
+    "fr": [
+     "garer",
+     "parking",
+     "voiture",
+     "stationnement",
+     "garage"
+    ],
+    "de": [
+     "parken",
+     "parkplatz",
+     "parkhaus",
+     "auto",
+     "garage"
+    ]
+   },
+   "a": {
+    "es": "El hotel tiene acuerdo con el Parking Longoria (Plaza Longoria Carbajal s/n), abierto 24 h a 100 metros. Según su web (leída el 30/10/2026), con el descuento para clientes cuesta 11,50 € al día (16,00 € sin descuento); confírmalo al reservar. También está el Parking Asturias, a 50 metros.",
+    "en": "The hotel has an agreement with Parking Longoria (Plaza Longoria Carbajal s/n), open 24 h, 100 metres away. According to their website (read on 30/10/2026), with the guest discount it costs €11.50 per day (€16.00 without discount); please confirm it when you book. Parking Asturias is 50 metres away.",
+    "fr": "L'hôtel a un accord avec le Parking Longoria (Plaza Longoria Carbajal s/n), ouvert 24 h, à 100 mètres. Selon leur site (consulté le 30/10/2026), avec la réduction clients il coûte 11,50 € par jour (16,00 € sans réduction) ; confirmez-le lors de la réservation. Le Parking Asturias est à 50 mètres.",
+    "de": "Das Hotel hat eine Vereinbarung mit dem Parking Longoria (Plaza Longoria Carbajal s/n), 24 Stunden geöffnet, 100 Meter entfernt. Laut Website (abgerufen am 30/10/2026) kostet es mit Gästerabatt 11,50 € pro Tag (16,00 € ohne Rabatt); bitte bei der Buchung bestätigen. Das Parking Asturias liegt 50 Meter entfernt."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/aparcamiento.html",
+     "quote": "Para aparcar cerca del Hotel Vetusta la opción más económica es el Parking Longoria (Plaza Longoria Carbajal s/n) abierto 24 h a 100 metros del hotel."
+    },
+    {
+     "url": "https://www.hotelvetusta.com/aparcamiento.html",
+     "quote": "El precio diario con descuento es de 11,50€ para un máximo de 24 horas si mover el vehículo. El precio diario sin descuento es de 16,00€."
+    },
+    {
+     "url": "https://www.hotelvetusta.com/aparcamiento.html",
+     "quote": "También puede aparcar en el Parking Asturias (con entrada por la calle Foncalada y calle Santa Clara ) abierto 24 horas a 50 metros del hotel."
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K06",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     " gato ",
+     "animal"
+    ],
+    "en": [
+     " pet",
+     "pets",
+     " dog",
+     " cat ",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     " chien",
+     " chat "
+    ],
+    "de": [
+     "haustier",
+     "hund",
+     "katze",
+     "tiere"
+    ]
+   },
+   "a": {
+    "es": "No se permiten animales de compañía en el hotel (lo indica su web).",
+    "en": "Pets are not allowed in the hotel (stated on their website).",
+    "fr": "Les animaux de compagnie ne sont pas admis à l'hôtel (indiqué sur leur site).",
+    "de": "Haustiere sind im Hotel nicht erlaubt (laut Website)."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/Nuestros-servicios.html",
+     "quote": "No se permiten animales de compañía en el hotel."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "cafeteria",
+   "keys": {
+    "es": [
+     "cafeteria",
+     "desayuno",
+     "comida",
+     "cena",
+     "restaurante",
+     "bar",
+     "reposteria",
+     "bizcocho"
+    ],
+    "en": [
+     "cafeteria",
+     "breakfast",
+     "lunch",
+     "dinner",
+     "restaurant",
+     " bar",
+     "pastr",
+     "cake"
+    ],
+    "fr": [
+     "cafeteria",
+     "petit dejeuner",
+     "dejeuner",
+     "diner",
+     "restaurant",
+     " bar",
+     "patisserie",
+     "gateau"
+    ],
+    "de": [
+     "cafeteria",
+     "fruhstuck",
+     "mittagessen",
+     "abendessen",
+     "restaurant",
+     " bar",
+     "gebaeck",
+     "gebäck",
+     "kuchen"
+    ]
+   },
+   "a": {
+    "es": "Sí. La cafetería sirve desayunos, comidas y cenas, tiene terraza exterior y preparan a diario bizcochos, tartas y bollería artesanal. Si estás alojado, el servicio de habitaciones te lleva el desayuno sin coste adicional.",
+    "en": "Yes. The cafeteria serves breakfast, lunch and dinner, has an outdoor terrace and bakes cakes, tarts and pastries every day. Hotel guests can have breakfast brought to the room at no extra cost.",
+    "fr": "Oui. La cafétéria sert petits-déjeuners, déjeuners et dîners, dispose d'une terrasse extérieure et prépare chaque jour gâteaux, tartes et viennoiseries maison. Les clients de l'hôtel peuvent se faire servir le petit-déjeuner en chambre sans frais.",
+    "de": "Ja. Die Cafeteria serviert Frühstück, Mittag- und Abendessen, hat eine Außenterrasse und backt täglich Kuchen, Torten und Gebäck. Hotelgäste bekommen das Frühstück ohne Aufpreis aufs Zimmer."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/Nuestros-servicios.html",
+     "quote": "En nuestra cafetería servimos deliciosos desayunos, comidas y cenas. Cuenta además con una terraza exterior para que puedas disfrutar del aire libre."
+    },
+    {
+     "url": "https://www.hotelvetusta.com/cafeteria.html",
+     "quote": "Diariamente preparamos diferentes bizcochos, tartas y bollería artesanal para que tu desayuno sea especial."
+    },
+    {
+     "url": "https://www.hotelvetusta.com/cafeteria.html",
+     "quote": "el servicio de habitaciones te lo llevará sin ningún coste adicional."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "llegar",
+     "llego",
+     "mapa",
+     "situad",
+     "centro",
+     "casco antiguo"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there",
+     "map",
+     "located",
+     "centre",
+     "old town"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "acces",
+     "venir",
+     "carte",
+     "centre",
+     "vieille ville"
+    ],
+    "de": [
+     " wo ",
+     "adresse",
+     "anfahrt",
+     "anreise",
+     "karte",
+     "liegt",
+     "zentrum",
+     "altstadt"
+    ]
+   },
+   "a": {
+    "es": "Está en C. Covadonga, 2, 33002 Oviedo (Asturias), en el centro, a tan solo 2 minutos del casco antiguo y la zona comercial.",
+    "en": "It is at C. Covadonga, 2, 33002 Oviedo (Asturias), in the centre, just 2 minutes from the old town and the shopping area.",
+    "fr": "L'hôtel se trouve C. Covadonga, 2, 33002 Oviedo (Asturies), au centre, à seulement 2 minutes de la vieille ville et du quartier commerçant.",
+    "de": "Das Hotel liegt in der C. Covadonga, 2, 33002 Oviedo (Asturien), im Zentrum, nur 2 Minuten von der Altstadt und dem Einkaufsviertel entfernt."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/",
+     "quote": "Dirección Covadonga, 2 33002 Oviedo Asturias España"
+    },
+    {
+     "url": "https://www.hotelvetusta.com/",
+     "quote": "Con una ubicación excelente en el centro de Oviedo, a tan sólo 2 minutos del casco antiguo y la zona comercial"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "fecha"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "dates"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig",
+     "termin"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar al +34 985 22 22 29 o escribir a info@hotelvetusta.com. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book on their website's booking engine (Book button), call +34 985 22 22 29 or write to info@hotelvetusta.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler le +34 985 22 22 29 ou écrire à info@hotelvetusta.com. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 985 22 22 29 anrufen oder an info@hotelvetusta.com schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/reservar.html",
+     "quote": "Reserva tu habitación Hotel Vetusta"
+    },
+    {
+     "url": "https://www.hotelvetusta.com/aviso-legal.html",
+     "quote": "teléfono +34 985222229 e e-mail info@hotelvetusta.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "empresa",
+     "cif",
+     "razon social"
+    ],
+    "en": [
+     "owner",
+     "company",
+     "legal name",
+     "tax id"
+    ],
+    "fr": [
+     "proprietaire",
+     "titulaire",
+     "societe",
+     "raison sociale"
+    ],
+    "de": [
+     "inhaber",
+     "eigentumer",
+     "firma",
+     "unternehmen",
+     "steuernummer"
+    ]
+   },
+   "a": {
+    "es": "Según el aviso legal de su web, el propietario es Alojamiento Hotelero Vetusta, con CIF B74308990 y domicilio en C/Covadonga 2.",
+    "en": "According to the legal notice on their website, the owner is Alojamiento Hotelero Vetusta, tax ID B74308990, at C/Covadonga 2.",
+    "fr": "Selon les mentions légales de leur site, le propriétaire est Alojamiento Hotelero Vetusta, CIF B74308990, domicilié C/Covadonga 2.",
+    "de": "Laut Impressum der Website ist der Inhaber Alojamiento Hotelero Vetusta, CIF B74308990, mit Sitz in der C/Covadonga 2."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelvetusta.com/aviso-legal.html",
+     "quote": "El propietario de esta web es: Alojamiento Hotelero Vetusta, con domicilio en C/Covadonga 2, con CIF B74308990"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
