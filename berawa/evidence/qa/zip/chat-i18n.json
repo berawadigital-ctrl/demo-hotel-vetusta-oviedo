@@ -1,5 +1,5 @@
 {
- "url": "http://127.0.0.1:33725/index.html",
+ "url": "http://127.0.0.1:45369/index.html",
  "langs": {
   "es": {
    "textos_iguales_al_es": [],
@@ -115,10 +115,10 @@
      "respuesta": "Check-in is from 15:00 to 23:00 and check-out from 07:00 to 12:00. Reception: 7:00 to 22:30 Monday to Friday and 8:00 to 22:30 at weekends. "
     },
     {
-     "q": "Where can I park?",
+     "q": "Is there a car park?",
      "esperado": "K05",
-     "ok": false,
-     "respuesta": "It is at C. Covadonga, 2, 33002 Oviedo (Asturias), in the centre, just 2 minutes from the old town and the shopping area."
+     "ok": true,
+     "respuesta": "The hotel has an agreement with Parking Longoria (Plaza Longoria Carbajal s/n), open 24 h, 100 metres away. According to their website (read"
     },
     {
      "q": "Are pets allowed?",
@@ -166,7 +166,7 @@
    "chips": [
     "Which rooms do you have?",
     "What time is check-in?",
-    "Where can I park?",
+    "Is there a car park?",
     "Are pets allowed?"
    ]
   },
@@ -341,8 +341,6 @@
    ]
   }
  },
- "fail": [
-  "en: chat \"Where can I park?\" esperado K05 -> It is at C. Covadonga, 2, 33002 Oviedo (Asturias), in the centre, just 2 minutes"
- ],
- "ok": false
+ "fail": [],
+ "ok": true
 }
